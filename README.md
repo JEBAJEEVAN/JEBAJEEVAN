@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JEBAJEEVAN
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m a web dev
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me 
 
